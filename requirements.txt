@@ -1,4 +1,6 @@
 streamlit
-plotly
-seaborn
+numpy
 matplotlib
+sklearn.utils
+sklearn.model_selection
+sklearn.ensemble
