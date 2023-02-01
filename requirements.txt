@@ -1,5 +1,3 @@
 streamlit
 numpy
-matplotlib
 sklearn
-sklearn.utils
