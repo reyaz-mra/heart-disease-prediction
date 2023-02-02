@@ -5,6 +5,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report, accuracy_score
+from sklearn.utils import resample
 
 st.sidebar.image("medcare.png")
 st.image("https://www.kokilabenhospital.com/blog/wp-content/uploads/2022/05/Heart-disease-know-your-risk.jpg")
